@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Do It",
+  "base_artist": "Tuxedo",
+  "createdAt": "2026-03-03T09:06:32.322968Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker feat. Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/01_Do_It_All_for_You_Alan_Walker_feat._Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker;Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/02_Do_It_All_for_You_Alan_Walker;Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do It With a Rockstar",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/03_Do_It_With_a_Rockstar_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do It with a Rockstar",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": true,
+      "path": "select/04_Do_It_with_a_Rockstar_Amanda_Palmer_&_The_Grand_Theft_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Country Music Made Me Do It",
+      "artist": "Carlton Anderson",
+      "has_synced": true,
+      "path": "select/05_Country_Music_Made_Me_Do_It_Carlton_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Do It In Texas",
+      "artist": "Catie Offerman",
+      "has_synced": true,
+      "path": "select/06_Don't_Do_It_In_Texas_Catie_Offerman.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Guys Do It All the Time",
+      "artist": "Mindy McCready",
+      "has_synced": true,
+      "path": "select/07_Guys_Do_It_All_the_Time_Mindy_McCready.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Guys Do It All the Time",
+      "artist": "Mindy McCready",
+      "has_synced": true,
+      "path": "select/08_Guys_Do_It_All_the_Time_Mindy_McCready.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Wanna Do It All",
+      "artist": "Terri Clark",
+      "has_synced": true,
+      "path": "select/09_I_Wanna_Do_It_All_Terri_Clark.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Wanna Do It All (Album Version)",
+      "artist": "Terri Clark",
+      "has_synced": true,
+      "path": "select/10_I_Wanna_Do_It_All_(Album_Version)_Terri_Clark.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/11_Do_It_All_for_You_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The South's Gonna Do It Again",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": true,
+      "path": "select/12_The_South's_Gonna_Do_It_Again_The_Charlie_Daniels_Band.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The South's Gonna Do It Again (Album Version)",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": true,
+      "path": "select/13_The_South's_Gonna_Do_It_Again_(Album_Version)_The_Charlie_Daniels_Band.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do It Again",
+      "artist": "SECRETBAND",
+      "has_synced": true,
+      "path": "select/14_Do_It_Again_SECRETBAND.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Do It Again",
+      "artist": "Secret Band",
+      "has_synced": true,
+      "path": "select/15_Do_It_Again_Secret_Band.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Do It to Death",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/16_Do_It_to_Death_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Do It All Night",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/17_I_Do_It_All_Night_Ludacris.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Do It",
+      "artist": "Tuxedo",
+      "has_synced": false,
+      "path": "select/pl_01_Do_It_Tuxedo.txt"
+    }
+  ]
+}
